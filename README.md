@@ -12,10 +12,10 @@ Key Features:
 Network Diagnostics: Measures latency and detects connectivity issues.
 Real-Time Monitoring: Updates every few seconds for continuous feedback.
 IoT Integration: Portable and easy to deploy across multiple networks.
-Extensibility: Can be enhanced to include multiple test hosts or additional parameters like jitter.
+Extensibility: This can be enhanced to include multiple test hosts or additional parameters like jitter.
 
 Applications:
 
 Monitoring home or office network performance.
 Troubleshooting IoT device connectivity issues.
-Educational tool for understanding ICMP and network latency.
+An educational tool for understanding ICMP and network latency.
